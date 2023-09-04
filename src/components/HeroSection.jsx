@@ -44,7 +44,7 @@ const Hero = () => {
         </ul>
         <div className={`${styles.sectionImg} md:ml-16 mt-8`}>
           <a
-            href="https://www.intellikid.xyz/"
+            href="https://intellidash-rlgg0tpn6-thakusandhya-gmailcom.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer glow-on-hover"
