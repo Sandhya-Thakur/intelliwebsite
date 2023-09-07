@@ -14,8 +14,7 @@ const Hero = () => {
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
             <br className="sm:block hidden" />{" "}
             <span className="text-gradient">
-              Harness the Power of Personalization to Elevate Your Child's
-              Learning{" "}
+            Lets Make Learning Fun for Your Child{" "}
             </span>{" "}
           </h1>
         </div>
@@ -25,21 +24,16 @@ const Hero = () => {
           className={`max-w-[470px] mt-5 mb-8 ${styles.paragraph} list-disc list-inside`}
         >
           <li className="mb-2">
-            <span className="text-gradient">Personalized Learning:</span> Access
-            a curated library that adapts to your child's academic preferences,
-            taking the hassle out of finding appropriate resources.
+          A curated library adapts to your child's interests, finding the right resources for them.
           </li>
           <li className="mb-2">
-            <span className="text-gradient">Guided Learning Paths:</span>{" "}
-            Benefit from AI-driven learning path suggestions that adapt to your
-            child's unique needs, paving the way for informed decisions and
-            tailored learning.
+            {" "}
+            AI-driven customized learning paths based on your child's learning preferences.
           </li>
           <li className="mb-2">
-            <span className="text-gradient">Data-backed Assessments:</span>{" "}
-            Utilize engaging quizzes and data-backed assessments to pinpoint
-            your child's strengths and areas for improvement, giving you the
-            insights to support their academic journey.
+            {" "}
+            Data-backed assessments to pinpoint your child's strengths and areas for improvement.
+            
           </li>
         </ul>
         <div className={`${styles.sectionImg} md:ml-16 mt-8`}>
@@ -60,7 +54,7 @@ const Hero = () => {
         <img
           src="kid.png"
           alt="billing"
-          className="w-[100%] h-[60%] relative z-[5]"
+          className="w-[100%] h-[80%] relative z-[5]"
         />
 
         {/* gradient start */}
