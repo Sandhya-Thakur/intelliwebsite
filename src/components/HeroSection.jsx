@@ -38,7 +38,7 @@ const Hero = () => {
         </ul>
         <div className={`${styles.sectionImg} md:ml-16 mt-8`}>
           <a
-            href="https://newdashboard-gray.vercel.app/"
+            href="https://newdashboard-ruddy.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer glow-on-hover"
